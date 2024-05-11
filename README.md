@@ -1,11 +1,12 @@
 ﻿# pacman-using-pygame
 
 #How to Run the Game
-First Clone The Repo To Your Local Repository
+Clone the repo to your local machine
 ```
-    git clone <url>
+git clone https://github.com/capnmav77/pacman-using-pygame.git
 ```
 
+Execute the following commands :
 ```
 cd PACMAN
 pip install -r requirements.txt
